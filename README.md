@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **github@smartlife.tk**
 
-- 📄 Find me in the web [smartlife.tk](smartlife.tk)
+- 📄 Find me in the web [smartlife.tk](https://smartlife.tk/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
