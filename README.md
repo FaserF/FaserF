@@ -11,9 +11,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/FaserF?tab=repositories](https://github.com/FaserF?tab=repositories)
 
-- 📫 How to reach me **github@smartlife.tk**
+- 📫 How to reach me **current-mail-adress-unavailable**
 
-- 📄 Find me in the web [smartlife.tk](https://smartlife.tk/)
+- 📄 Find me in the web [New-Website-WIP](https://smartlife.tk/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
