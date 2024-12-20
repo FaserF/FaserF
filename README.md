@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/FaserF?tab=repositories](https://github.com/FaserF?tab=repositories)
 
-- 📫 How to reach me **fabian@fabiseitz.de**
+- 📫 How to reach me **github@fabiseitz.de**
 
 - 📄 Find me in the web [Website](https://fabiseitz.de/)
 
