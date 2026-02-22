@@ -10,7 +10,7 @@
 ## About Me 🙋‍♂️
 
 - 🔭 I’m currently working on **[Home Assistant Add-ons](https://github.com/FaserF/hassio-addons)** and various integrations.
-- 🌱 I’m currently learning **PowerShell** and **Python**.
+- 🌱 I’m currently improving my skills in **Python** and **PowerShell**.
 - 👨‍💻 All of my projects are available at **[My Repositories](https://github.com/FaserF?tab=repositories)**.
 - 📄 Find me on the web: **[fabiseitz.de](https://fabiseitz.de/)**
 - 📫 Reach me at: **github@fabiseitz.de**
